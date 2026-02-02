@@ -1,0 +1,8 @@
+/boston.csv
+/cherry.csv
+/iris.csv
+
+venv/
+.venv/
+*.pyc
+__pycache__/
